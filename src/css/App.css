@@ -1,0 +1,11 @@
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  box-sizing: border-box;
+  display: flex;
+
+  max-width: none;
+
+  flex-direction: column;
+  background-color: #242424;
+}
